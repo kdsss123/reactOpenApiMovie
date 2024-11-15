@@ -1,3 +1,5 @@
+강의 출처 : https://www.youtube.com/watch?v=b9eMGE7QtTk&list=WL&index=3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
